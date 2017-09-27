@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExternalFunctionEnvironmentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+    <ExternalFunctionEnvironment>
+      <RegNumber>A001</RegNumber>
+      <ServiceName>테스트서비스</ServiceName>
+      <Address>test</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>0</SRequestType>
+      <EncodingString>utf8</EncodingString>
+      <SSendStructType>1</SSendStructType>
+      <SReceiveStructType>2</SReceiveStructType>
+    </ExternalFunctionEnvironment>
+  </List>
+</ExternalFunctionEnvironmentList>
